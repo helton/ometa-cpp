@@ -12,7 +12,7 @@ References
 
 There are a couple of implementations of OMeta, using a lot of host languages like JavaScript, Python, Ruby and C#. 
 The projects below are great and you probably want to take a look at them:
-- **[OMeta-JS]** by [Alex Warth]
+- **[OMeta-JS]**, by [Alex Warth]
 - **[OMeta#]**, by [Jeff Moser]
 - **[IronMeta]**, by [Gordon Tisher]
 - **[PyMeta]**, by [Allen Short]
