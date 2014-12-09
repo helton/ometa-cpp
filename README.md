@@ -6,7 +6,6 @@
 Don't you know what is OMeta? According to its authors:
 >OMeta is a new object-oriented language for pattern matching. It is based on a variant of Parsing Expression Grammars (PEGs) which we have extended to handle arbitrary data types. OMeta's general-purpose pattern matching facilities provide a natural and convenient way for programmers to implement tokenizers, parsers, visitors, and tree transformers, all of which can be extended in interesting ways using familiar object-oriented mechanisms.
 
-----------
 
 References
 -------------
@@ -19,7 +18,6 @@ The projects below are great and you probably want to take a look at them:
 > - **[PyMeta]**, by [Allen Short]
 > - **[Ruby-OMeta]**, by [Aquasync]
 
-----------
 
 More info
 -------------
@@ -27,19 +25,16 @@ More info
 If you need tutorial about OMeta, check the [OMeta Tutorial]. 
 To more information about the language, check it out on [Alex Warth's site].
 
-----------
 
 Status
 -------------
-Active, under development (just on my spare time, sorry).
+Active and under development (just on my spare time, sorry).
 
-----------
 
 Version
 -------------
 1.0
 
-----------
 
 
 License
@@ -47,7 +42,6 @@ License
 
 MIT
 
-----------
 
 Contributing
 -------------
@@ -58,19 +52,11 @@ Contributing
 >4. Push to the branch (`git push origin my-new-feature`)
 >5. Send me a pull request
 
-----------
 
 Developer
 ----
 > - E-mail: [Helton Carlos de Souza]
 > - GitHub: [helton-hcs]
-
-----------
-
-Table of contents
-----
-
-> [TOC]
 
 
 [Alex Warth's site]:http://tinlizzie.org/ometa/
