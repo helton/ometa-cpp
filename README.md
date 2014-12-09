@@ -12,11 +12,11 @@ References
 
 There are a couple of implementations of OMeta, using a lot of host languages like JavaScript, Python, Ruby and C#. 
 The projects below are great and you probably want to take a look at them:
-> - **[OMeta-JS]** by [Alex Warth]
-> - **[OMeta#]**, by [Jeff Moser]
-> - **[IronMeta]**, by [Gordon Tisher]
-> - **[PyMeta]**, by [Allen Short]
-> - **[Ruby-OMeta]**, by [Aquasync]
+- **[OMeta-JS]** by [Alex Warth]
+- **[OMeta#]**, by [Jeff Moser]
+- **[IronMeta]**, by [Gordon Tisher]
+- **[PyMeta]**, by [Allen Short]
+- **[Ruby-OMeta]**, by [Aquasync]
 
 
 More info
@@ -55,8 +55,8 @@ Contributing
 
 Developer
 ----
-> - E-mail: [Helton Carlos de Souza]
-> - GitHub: [helton-hcs]
+- E-mail: [Helton Carlos de Souza]
+- GitHub: [helton-hcs]
 
 
 [Alex Warth's site]:http://tinlizzie.org/ometa/
