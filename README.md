@@ -1,7 +1,7 @@
-**ometa-cpp**
+**OMetaCpp**
 ===================
 
-**ometa-cpp** is the implementation of **[OMeta]**, using C++ as the host programming language. It intend to use the greatest features of modern C++.
+**OMetaCpp** is the implementation of **[OMeta]**, using C++ as the host programming language. It intend to use the greatest features of modern C++.
 
 Don't you know what is OMeta? According to its authors:
 >OMeta is a new object-oriented language for pattern matching. It is based on a variant of Parsing Expression Grammars (PEGs) which we have extended to handle arbitrary data types. OMeta's general-purpose pattern matching facilities provide a natural and convenient way for programmers to implement tokenizers, parsers, visitors, and tree transformers, all of which can be extended in interesting ways using familiar object-oriented mechanisms.
@@ -57,7 +57,6 @@ Developer
 ----
 - E-mail: [Helton Carlos de Souza]
 - GitHub: [helton-hcs]
-
 
 [Alex Warth's site]:http://tinlizzie.org/ometa/
 [OMeta]:http://tinlizzie.org/ometa/
